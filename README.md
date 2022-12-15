@@ -1,2 +1,2 @@
 # CiscoPacketTracer
-2. Klik pada ikon Generic PC-PT (untuk memilih komputer) dan Generic Laptop-PT (Untuk memilih Laptop), drag &amp;
+Simulasi Jaringan Menggunakan Cisco Packet Tracer
